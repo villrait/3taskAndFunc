@@ -8,6 +8,9 @@
 
 /* Begin PBXBuildFile section */
 		0C0944062C492512009414B1 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C0944052C492512009414B1 /* main.swift */; };
+		0C09440D2C492526009414B1 /* 3.1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C09440C2C492526009414B1 /* 3.1.swift */; };
+		0C09440F2C492BF0009414B1 /* 3.2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C09440E2C492BF0009414B1 /* 3.2.swift */; };
+		0C0944112C492D91009414B1 /* 3.3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C0944102C492D91009414B1 /* 3.3.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +28,9 @@
 /* Begin PBXFileReference section */
 		0C0944022C492512009414B1 /* 3taskAndFunc */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = 3taskAndFunc; sourceTree = BUILT_PRODUCTS_DIR; };
 		0C0944052C492512009414B1 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		0C09440C2C492526009414B1 /* 3.1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 3.1.swift; sourceTree = "<group>"; };
+		0C09440E2C492BF0009414B1 /* 3.2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 3.2.swift; sourceTree = "<group>"; };
+		0C0944102C492D91009414B1 /* 3.3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 3.3.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +64,9 @@
 			isa = PBXGroup;
 			children = (
 				0C0944052C492512009414B1 /* main.swift */,
+				0C09440C2C492526009414B1 /* 3.1.swift */,
+				0C09440E2C492BF0009414B1 /* 3.2.swift */,
+				0C0944102C492D91009414B1 /* 3.3.swift */,
 			);
 			path = 3taskAndFunc;
 			sourceTree = "<group>";
@@ -120,7 +129,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0C0944112C492D91009414B1 /* 3.3.swift in Sources */,
+				0C09440D2C492526009414B1 /* 3.1.swift in Sources */,
 				0C0944062C492512009414B1 /* main.swift in Sources */,
+				0C09440F2C492BF0009414B1 /* 3.2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
